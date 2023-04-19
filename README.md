@@ -3,7 +3,7 @@
  ### 2nd TEAM PROJECT  <a href="#"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="#"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
- # 📚 SKIL
+ # 📚 SKILL
 
  ### Programming <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=eclipse&logoColor=white">
 
