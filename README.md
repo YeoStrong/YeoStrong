@@ -1,7 +1,7 @@
  # LINK
  ### 1st PERSONAL PROJECT <a href="https://github.com/YeoStrong/leaguewebzine"><img src="https://img.shields.io/badge/LeagueWebzine[게임커뮤니티사이트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 2nd TEAM PROJECT  <a href="https://github.com/95dongju/Pronect_2ndTeamProject"><img src="https://img.shields.io/badge/ProNect[스터디/프로젝트 모집 및 관리 사이트]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 공부일지 <a href="#"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 공부일지 <a href="https://github.com/YeoStrong/webpro"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKILL
 
